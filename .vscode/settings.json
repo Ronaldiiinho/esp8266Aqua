@@ -1,0 +1,5 @@
+{
+    "terminal.integrated.env.osx": {
+        "PATH": "/Users/ronaldo/.platformio/penv/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/ronaldo/Android/SDK/platform-tools/:/Users/ronaldo/Android/SDK/tools/:/opt/X11/bin"
+    }
+}
